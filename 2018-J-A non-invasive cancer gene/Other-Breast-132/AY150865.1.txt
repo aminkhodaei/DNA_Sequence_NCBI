@@ -1,0 +1,3 @@
+>AY150865.1 Homo sapiens truncated breast and ovarian cancer susceptibility protein (BRCA1) gene, exon 12 and partial cds
+GTGAAGCAGCATCTGGGTGTGAGAGTGAAACAAGCGTCTCTGAAGACTGCTCAGGGCTATCAGAGTGA
+
